@@ -1,6 +1,6 @@
-﻿<h1>Sistemas de Vendas</h1>
+﻿<h1>Sistema de Vendas</h1>
 <p>Autor: Marcelo de Castro<br>E-mail: Marcelof730@gmail.com</p>
-<p>Sistem em desenvolvimento.</p>
+<p>Sistema em desenvolvimento.</p>
 <p>Ferramentas utilizadas:
   <ul>
     <li>Java 1.8.0 u65</li>
