@@ -11,4 +11,4 @@
   </ul>
 </p>
 <p>Pré-visualização:</p>
-<img src="http://jdenner.com/resources/java-sistema-vendas.png" alt="Calculadora executando">
+<img src="http://i.imgur.com/X8m2MUj.png" alt="Calculadora executando">
